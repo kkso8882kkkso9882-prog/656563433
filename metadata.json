@@ -1,0 +1,6 @@
+{
+  "name": "Luau Deobfuscator Pro",
+  "description": "High-performance Luau & Lua deobfuscation suite with string decryption, constant folding, control flow recovery, and Roblox script analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
